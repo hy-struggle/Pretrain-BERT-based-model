@@ -22,5 +22,5 @@
 
 -- utils.py
 
--- run_pretrain.py
+-- run_pretrain.py: 执行预训练
 

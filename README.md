@@ -2,9 +2,7 @@
 
 **文件结构：**
 
--- data_src
-  
-    -- 源数据
+-- data_src: 源数据
 
 -- corpus
   
